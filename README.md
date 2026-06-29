@@ -151,6 +151,6 @@ The dashboard has **4 pages**, navigated through a custom icon-based menu:
 This project shows that Adventure Works' growth has been strong but narrow - concentrated in Bikes, in two countries, and in a handful of regions within those countries. The dashboard surfaces where the business is winning (Road/Mountain Bikes, US, Australia) and where there's untapped opportunity (Accessories/Clothing growth, underperforming US territories, Accessories return rates) - turning raw transactional data into a clear set of next steps for the business.
 
 
-## 📂 Project Files
+## Project Files
 
 - `AdventureSales.pbix` - Power BI project file 
